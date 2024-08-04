@@ -2,7 +2,10 @@
 
 Hi. it is the repo for rush00 that we will do together.
 
-Try to write the program that we made together yesterday. The file should be named rush00.c
+Try to write the program that we made together yesterday.
+
+The file should be named rush00.c
+
 It should look like that.
 
     void rush00(void)
@@ -17,18 +20,19 @@ It should look like that.
 
 It should have the next variables:
 
-char c;
-int i;
+    char c;
+    int i;
 
-It should have one while loop.
+It should have one **while** loop.
 
-It should #include <unistd.h>
+It should **#include <unistd.h>**
 
-And use function write(1, &c, 1) to display characters.
+And use function **write(1, &c, 1)** to display characters.
 
-Your goal is to show the line
+Your **goal** is to show the line
 o---o
 
+_________________________________
 If you want a little challenge, you can change the rush00 function is such way, that it accepts the variable x that defines the length of the output line.
 
 For x = 3 it should show
