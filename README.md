@@ -35,9 +35,9 @@ o---o
 _________________________________
 If you want a little challenge, you can change the rush00 function is such way, that it accepts the variable x that defines the length of the output line.
 
-For x = 3 it should show
+For x = 3 it should show\n
 o-o
-For x = 5 it should show
+For x = 5 it should show\n
 o---o
 
 Then the program will look like that
